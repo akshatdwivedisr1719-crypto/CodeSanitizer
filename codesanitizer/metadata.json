@@ -1,0 +1,6 @@
+{
+  "name": "CodeSanitizer",
+  "description": "AI-Generated Code & Package Hallucination Auditor - Detect insecure AI-generated code, hallucinated packages, and dangerous patterns before production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
